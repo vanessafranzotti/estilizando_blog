@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500&family=Inter:wght@400;600&family=Nunito:wght@700;900&family=Roboto:wght@100&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif,;
+    height: 100vh;
+    background-color: rgba(137, 192, 255, 0.973);
+}
+.p{
+    text-align: justify;
+    
+}
+
+a:link{
+  padding: 10px;
+  margin: 10px;
+  border: 5px;
+  border-radius: 4px;
+  font-weight:900;
+  background-color: #0a74d1ee;
+  text-decoration: none;
+  
+  }
+  
+  .formulario{
+    background-color: rgba(50, 164, 230, 0.904);
+    border-radius: 4px;
+    border: 80px;
+    
+  }
+.titulo_1{
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+}
+.paragrafo_1{
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+
+  
+}
+.email_1{
+  font-size: 20px;
+}
+.email_2{
+  border-radius: 4px;
+  
+  
+}
+.botao_1{
+  border-radius: 4px;
+  background-color: rgba(61, 121, 250, 0.904);
+}
+
+ 
